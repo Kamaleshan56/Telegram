@@ -7,3 +7,5 @@ Code Blocks
 3.Chat Module
 
 4.Setting Module
+
+5.Delete context
